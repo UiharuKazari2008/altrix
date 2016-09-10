@@ -1,0 +1,1 @@
+* TM.bash - Trust Manager for SSH, Allows you to control public-key authentication.
